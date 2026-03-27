@@ -1,0 +1,9 @@
+{
+    "model_name": "LOGOS-44-Z0",
+    "author": "TwojaNazwaU\u017cytkownika",
+    "final_loss": 0.9391,
+    "model_size_mb": 8.88,
+    "architecture": "Coherence Lattice CL-44 (Holographic Weight Sharing)",
+    "hardware_used": "TPU v5e (Google Cloud)",
+    "training_time_seconds": 150
+}
